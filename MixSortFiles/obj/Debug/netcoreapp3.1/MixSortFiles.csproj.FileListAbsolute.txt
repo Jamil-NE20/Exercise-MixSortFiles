@@ -1,0 +1,13 @@
+C:\Users\Studerande\source\repos\MixSortFiles\MixSortFiles\bin\Debug\netcoreapp3.1\MixSortFiles.exe
+C:\Users\Studerande\source\repos\MixSortFiles\MixSortFiles\bin\Debug\netcoreapp3.1\MixSortFiles.deps.json
+C:\Users\Studerande\source\repos\MixSortFiles\MixSortFiles\bin\Debug\netcoreapp3.1\MixSortFiles.runtimeconfig.json
+C:\Users\Studerande\source\repos\MixSortFiles\MixSortFiles\bin\Debug\netcoreapp3.1\MixSortFiles.runtimeconfig.dev.json
+C:\Users\Studerande\source\repos\MixSortFiles\MixSortFiles\bin\Debug\netcoreapp3.1\MixSortFiles.dll
+C:\Users\Studerande\source\repos\MixSortFiles\MixSortFiles\bin\Debug\netcoreapp3.1\MixSortFiles.pdb
+C:\Users\Studerande\source\repos\MixSortFiles\MixSortFiles\obj\Debug\netcoreapp3.1\MixSortFiles.csprojAssemblyReference.cache
+C:\Users\Studerande\source\repos\MixSortFiles\MixSortFiles\obj\Debug\netcoreapp3.1\MixSortFiles.csproj.CoreCompileInputs.cache
+C:\Users\Studerande\source\repos\MixSortFiles\MixSortFiles\obj\Debug\netcoreapp3.1\MixSortFiles.AssemblyInfoInputs.cache
+C:\Users\Studerande\source\repos\MixSortFiles\MixSortFiles\obj\Debug\netcoreapp3.1\MixSortFiles.AssemblyInfo.cs
+C:\Users\Studerande\source\repos\MixSortFiles\MixSortFiles\obj\Debug\netcoreapp3.1\MixSortFiles.dll
+C:\Users\Studerande\source\repos\MixSortFiles\MixSortFiles\obj\Debug\netcoreapp3.1\MixSortFiles.pdb
+C:\Users\Studerande\source\repos\MixSortFiles\MixSortFiles\obj\Debug\netcoreapp3.1\MixSortFiles.genruntimeconfig.cache
